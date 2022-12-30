@@ -1,0 +1,10 @@
+.hr {
+    position: relative;
+    top: 10px;
+    border: none;
+    width: 150px;
+    height: 12px;
+    background: black;
+    margin-bottom: 30px;
+    border-radius: 25px;
+}
